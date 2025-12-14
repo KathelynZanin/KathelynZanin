@@ -21,5 +21,7 @@ Atualmente, sou estudante de programação, cursando Desenvolvimento de Software
  ## 👾 Meus projetos e contato
 <div>
   <a href="https://github.com/OmniDevsOficial?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/-OmniDevs-D6D6D6?style=for-the-badge" alt="omnidevs"/></a>
-  <a href="www.linkedin.com/in/kathelynzanin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/kathelynzanin" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 </div>
